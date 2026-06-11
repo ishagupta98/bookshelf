@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasy",
+    "shelf": "read",
+    "rating": 5,
+    "review": "Beautifully written. Kvothe's voice is captivating from page one.",
+    "createdAt": "2024-01-10T09:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "shelf": "read",
+    "rating": 5,
+    "review": "Couldn't put it down. Rocky is the best sci-fi character in years.",
+    "createdAt": "2024-02-14T11:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "shelf": "read",
+    "rating": 4,
+    "review": "Dense but rewarding. The world-building is unmatched.",
+    "createdAt": "2024-03-01T08:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "genre": "Literary Fiction",
+    "shelf": "read",
+    "rating": 4,
+    "review": "A moving meditation on regret and possibility.",
+    "createdAt": "2024-03-20T14:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "genre": "Literary Fiction",
+    "shelf": "reading",
+    "rating": null,
+    "review": null,
+    "createdAt": "2024-04-05T10:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "shelf": "reading",
+    "rating": null,
+    "review": null,
+    "createdAt": "2024-04-18T16:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "title": "Recursion",
+    "author": "Blake Crouch",
+    "genre": "Thriller",
+    "shelf": "want-to-read",
+    "rating": null,
+    "review": null,
+    "createdAt": "2024-05-01T12:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "Memoir",
+    "shelf": "want-to-read",
+    "rating": null,
+    "review": null,
+    "createdAt": "2024-05-10T09:30:00.000Z"
+  },
+  {
+    "id": "9",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "genre": "Science Fiction",
+    "shelf": "read",
+    "rating": 5,
+    "review": "Absurdly funny. Re-readable every few years.",
+    "createdAt": "2024-05-22T15:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "title": "Anxious People",
+    "author": "Fredrik Backman",
+    "genre": "Literary Fiction",
+    "shelf": "want-to-read",
+    "rating": null,
+    "review": null,
+    "createdAt": "2024-06-01T08:00:00.000Z"
+  }
+]

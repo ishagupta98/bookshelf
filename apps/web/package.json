@@ -1,0 +1,6 @@
+{
+  "name": "@bookshelf/web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React frontend — scaffolded in Day 2"
+}
