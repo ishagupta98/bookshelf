@@ -1,15 +1,5 @@
 [
   {
-    "id": "1",
-    "title": "The Name of the Wind",
-    "author": "Patrick Rothfuss",
-    "genre": "Fantasy",
-    "shelf": "read",
-    "rating": 5,
-    "review": "Beautifully written. Kvothe's voice is captivating from page one.",
-    "createdAt": "2024-01-10T09:00:00.000Z"
-  },
-  {
     "id": "2",
     "title": "Project Hail Mary",
     "author": "Andy Weir",
@@ -18,16 +8,6 @@
     "rating": 5,
     "review": "Couldn't put it down. Rocky is the best sci-fi character in years.",
     "createdAt": "2024-02-14T11:30:00.000Z"
-  },
-  {
-    "id": "3",
-    "title": "Dune",
-    "author": "Frank Herbert",
-    "genre": "Science Fiction",
-    "shelf": "read",
-    "rating": 4,
-    "review": "Dense but rewarding. The world-building is unmatched.",
-    "createdAt": "2024-03-01T08:00:00.000Z"
   },
   {
     "id": "4",

@@ -38,4 +38,12 @@ export const booksStore = {
         b.genre.toLowerCase().includes(q)
     );
   },
+
+  delete(id: string): boolean {
+    const books = readAll();
+    const filtered = books.filter((b) => b.id !== id);
+    if (filtered.length === books.length) return false;
+    writeAll(filtered);
+    return true;
+  },
 };

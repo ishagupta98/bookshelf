@@ -66,4 +66,15 @@ router.post("/", (req: Request, res: Response) => {
   res.status(201).json(booksStore.create(book));
 });
 
+// DELETE /api/books/:id
+router.delete("/:id", (req: Request, res: Response) => {
+  const book = booksStore.getById(req.params.id);
+  if (!book) {
+    res.status(404).json({ error: "Book not found" });
+    return;
+  }
+  booksStore.delete(req.params.id);
+  res.status(204).send();
+});
+
 export default router;
